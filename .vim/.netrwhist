@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/dev/PRJ_workspace/toolsRepo/cFS-GroundSystem/Subsystems/cmdGui/ParameterFiles'
+let g:netrw_dirhist_2='/home/dev/PRJ_workspace/prjRepo/gsw/cfsUtils/cmdGui'
+let g:netrw_dirhist_3='/home/dev/Training_workspace.orig'
+let g:netrw_dirhist_4='/home/dev/Archives/cFE-6.5.0-OSS-release/tools'
+let g:netrw_dirhist_5='/home/dev/Archives/cFE-6.5.0-OSS-release/apps/to/fsw/mission_inc'
+let g:netrw_dirhist_6='/home/dev/Archives/cFE-6.5.0-OSS-release/cfe/cmake'
+let g:netrw_dirhist_7='/home/dev/Training_workspace/CFS-101.initial/apps/ci_lab/fsw/src'
+let g:netrw_dirhist_8='/home/dev/Training_workspace/CFS-101.initial/tools/cFS-GroundSystem/Subsystems/tlmGUI'

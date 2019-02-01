@@ -1,0 +1,7 @@
+
+[Added Associations]
+text/html=firefox.desktop;
+text/plain=gedit.desktop;
+
+[Default Applications]
+text/html=mozilla-firefox.desktop

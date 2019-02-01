@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="check_size" mtime="1531174627" type="string">
+		<stringvalue>medium</stringvalue>
+	</entry>
+	<entry name="check_type" mtime="1531174627" type="string">
+		<stringvalue>midtone</stringvalue>
+	</entry>
+	<entry name="transparency_type" mtime="1531174627" type="string">
+		<stringvalue>none</stringvalue>
+	</entry>
+	<entry name="zoom_quality" mtime="1531174627" type="string">
+		<stringvalue>high</stringvalue>
+	</entry>
+</gconf>

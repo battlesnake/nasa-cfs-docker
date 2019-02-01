@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Exec=xterm
+Name[en_US]=xterm
+Name=xterm
+Icon=gnome-panel-launcher

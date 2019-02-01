@@ -1,0 +1,14 @@
+
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Exec=evolution --component=mail %s
+TryExec=evolution
+Name=Preferred Mail Reader
+GenericName=Mail Reader
+Comment=Send email
+Icon=redhat-email.png
+Terminal=false
+X-Panel-Monitor=true
+NoDisplay=true

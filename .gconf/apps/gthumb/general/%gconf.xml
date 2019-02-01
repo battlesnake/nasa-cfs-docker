@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="startup_location" mtime="1531174627" type="string">
+		<stringvalue>file://~/Pictures</stringvalue>
+	</entry>
+	<entry name="migrate_comment_system" mtime="1483738409" type="bool" value="false"/>
+	<entry name="migrate_directories" mtime="1483738409" type="bool" value="false"/>
+</gconf>

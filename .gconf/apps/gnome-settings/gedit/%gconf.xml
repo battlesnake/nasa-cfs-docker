@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="history-gedit2_replace_with_entry" mtime="1477499860" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>orange</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>CFE_MAKE_BIG16(</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>SCH_ENABLED</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>CFE_MAKE_BIG16(SCH_UNUSED_MID)</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>CFE_MAKE_BIG16(0x0003),</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>(0x0001),</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>CFE_MAKE_BIG16(0x0001),</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>CFE_MAKE_BIG16(0xC000),</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>Message index #</stringvalue>
+		</li>
+	</entry>
+	<entry name="history-gedit2_search_for_entry" mtime="1531168714" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>temp-mon-hk-tlm</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>temp_io_cmd_msg</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>ProcessNewData</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>temp-io-msg-for</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>image:</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>cmdgui-disp</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>NewApp</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>to-cmd-disp</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>to-enable</stringvalue>
+		</li>
+	</entry>
+</gconf>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="theme" mtime="1497469803" type="string">
+		<stringvalue>Slider</stringvalue>
+	</entry>
+	<entry name="num_workspaces" mtime="1476458607" type="int" value="4"/>
+</gconf>

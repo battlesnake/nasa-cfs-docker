@@ -1,0 +1,52 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-7rTYNG/socket
+SSH_AUTH_SOCK=/tmp/keyring-7rTYNG/socket.ssh
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+Cleaned 0 files 8 still live
+Failed to play sound: File or data not found
+
+(polkit-gnome-authentication-agent-1:2294): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2294): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+Initializing nautilus-gdu extension
+** Message: applet now removed from the notification area
+(null):  Warning no default label for /home/dev/.gvfs
+
+** (gnome-panel:2238): WARNING **: panel-applet-frame.c:1288: failed to load applet OAFIID:GnoteApplet:
+(null)
+** Message: applet now embedded in the notification area
+
+(nautilus:2242): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2242): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2242): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(gnome-power-manager:2289): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+
+(nautilus:2242): GConf-CRITICAL **: ltable_remove: assertion `node != NULL' failed
+** Message: applet now removed from the notification area
+Shutting down nautilus-gdu extension
+
+--- Hash table keys for warning below:
+--> dev
+--> inode/directory
+--> l64768
+
+(nautilus:2242): Eel-WARNING **: "unique eel_ref_str" hash table still has 3 elements at quit time (keys above)
+
+(nautilus:2242): Eel-WARNING **: "nautilus-directory.c: directories" hash table still has 3 elements at quit time
+
+(polkit-gnome-authentication-agent-1:2294): polkit-gnome-1-WARNING **: Error enumerating temporary authorizations: Remote Exception invoking org.freedesktop.PolicyKit1.Authority.EnumerateTemporaryAuthorizations() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.PolicyKit1.Error.Failed: Cannot determine session the caller is in
+** Message: <info>  disconnected by the session bus.
+
+** Message: Got disconnected from the session message bus; retrying to reconnect every 10 seconds
+gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.

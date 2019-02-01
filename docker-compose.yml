@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  build:
+    container_name: cfs_build
+    build: .
+    volumes:
+     - ./:/home/dev:rw
+    working_dir: /home/dev/Training_workspace/CSF-101

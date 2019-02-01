@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="secondary_color" mtime="1497469808" type="string">
+		<stringvalue>#14142c2c3d3d</stringvalue>
+	</entry>
+	<entry name="picture_filename" mtime="1497469808" type="string">
+		<stringvalue>/home/dev/Pictures/Hubble-Shuttle.jpg</stringvalue>
+	</entry>
+	<entry name="primary_color" mtime="1497469808" type="string">
+		<stringvalue>#22224b4b6868</stringvalue>
+	</entry>
+	<entry name="color_shading_type" mtime="1497469808" type="string">
+		<stringvalue>vertical-gradient</stringvalue>
+	</entry>
+	<entry name="picture_options" mtime="1497469808" type="string">
+		<stringvalue>stretched</stringvalue>
+	</entry>
+</gconf>

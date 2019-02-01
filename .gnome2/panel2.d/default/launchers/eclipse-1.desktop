@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/usr/local/src/eclipse/neon/icon.xpm
+Name[en_US]=eclipse-neon
+Exec=/usr/local/src/eclipse/neon/eclipse
+Name=eclipse-neon
+Icon=/usr/local/src/eclipse/neon/icon.xpm

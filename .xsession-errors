@@ -1,0 +1,36 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-4X6cbg/socket
+SSH_AUTH_SOCK=/tmp/keyring-4X6cbg/socket.ssh
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+Cleaned 0 files 9 still live
+Failed to play sound: File or data not found
+
+(polkit-gnome-authentication-agent-1:2440): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2440): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+(null):  Warning no default label for /home/dev/.gvfs
+** Message: applet now removed from the notification area
+Initializing nautilus-gdu extension
+
+** (gnome-panel:2382): WARNING **: panel-applet-frame.c:1288: failed to load applet OAFIID:GnoteApplet:
+(null)
+
+** (gnome-panel:2382): CRITICAL **: panel_applet_frame_change_background: assertion `PANEL_IS_WIDGET (GTK_WIDGET (frame)->parent)' failed
+** Message: applet now embedded in the notification area
+
+(nautilus:2386): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2386): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2386): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+Error: Mismatch between font type and embedded font file
+Error: Mismatch between font type and embedded font file
+
+** (gnome-panel:2382): WARNING **: panel-applet-frame.c:1288: failed to load applet OAFIID:GnoteApplet:
+(null)
+
+** (gnome-panel:2382): WARNING **: panel-applet-frame.c:1288: failed to load applet OAFIID:GnoteApplet:
+(null)
+(null) get context on /home/dev/.viminfo.tmp failed: 'No such file or directory'

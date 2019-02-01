@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<metadata>
+  <document uri="last-used-value" atime="1549040702">
+    <entry key="window_x" type="gint" value="0"/>
+    <entry key="window_y" type="gint" value="25"/>
+    <entry key="window_height" type="gint" value="520"/>
+    <entry key="window_width_ratio" type="gdouble" value="1.2598039215686274"/>
+    <entry key="page" type="gint" value="4"/>
+    <entry key="sidebar_page" type="gchararray" value="thumbnails"/>
+    <entry key="window_width" type="gint" value="771"/>
+    <entry key="window_maximized" type="gboolean" value="0"/>
+    <entry key="window_height_ratio" type="gdouble" value="0.65656565656565657"/>
+  </document>
+  <document uri="file:///home/dev/Archives/cFE-6.5.0-OSS-release/apps/ci/Command_Ingest_NOSA.pdf" atime="1527705443">
+    <entry key="window_x" type="gint" value="0"/>
+    <entry key="window_y" type="gint" value="25"/>
+    <entry key="window_height" type="gint" value="902"/>
+    <entry key="window_width_ratio" type="gdouble" value="1.6127450980392157"/>
+    <entry key="page" type="gint" value="0"/>
+    <entry key="sidebar_page" type="gchararray" value="thumbnails"/>
+    <entry key="window_width" type="gint" value="987"/>
+    <entry key="window_maximized" type="gboolean" value="0"/>
+    <entry key="window_height_ratio" type="gdouble" value="1.1388888888888888"/>
+  </document>
+  <document uri="file:///home/dev/Training_workspace/CFS-101/psp/doc/PSP%201.3.0.0%20Version%20Description%20Document.pdf" atime="1477336152">
+    <entry key="sidebar_page" type="gchararray" value="thumbnails"/>
+    <entry key="window_maximized" type="gboolean" value="0"/>
+  </document>
+  <document uri="file:///home/dev/Downloads/Tam%20Ngo%20PO.pdf" atime="1529702739">
+    <entry key="window_x" type="gint" value="0"/>
+    <entry key="window_y" type="gint" value="25"/>
+    <entry key="window_height" type="gint" value="987"/>
+    <entry key="window_width_ratio" type="gdouble" value="1.6127450980392157"/>
+    <entry key="sidebar_page" type="gchararray" value="thumbnails"/>
+    <entry key="window_width" type="gint" value="987"/>
+    <entry key="window_maximized" type="gboolean" value="0"/>
+    <entry key="window_height_ratio" type="gdouble" value="1.2462121212121211"/>
+  </document>
+  <document uri="file:///home/dev/Training_workspace/CFS-101.initial/SUA_Open_Source_cFE%206%201_GSC-16232.pdf" atime="1549040702">
+    <entry key="window_x" type="gint" value="0"/>
+    <entry key="window_y" type="gint" value="25"/>
+    <entry key="window_height" type="gint" value="520"/>
+    <entry key="window_width_ratio" type="gdouble" value="1.2598039215686274"/>
+    <entry key="page" type="gint" value="4"/>
+    <entry key="sidebar_page" type="gchararray" value="thumbnails"/>
+    <entry key="window_width" type="gint" value="771"/>
+    <entry key="window_maximized" type="gboolean" value="0"/>
+    <entry key="window_height_ratio" type="gdouble" value="0.65656565656565657"/>
+  </document>
+  <document uri="file:///home/dev/Archives/cFE-6.5.0-OSS-release/SUA_Open_Source_cFE%206%201_GSC-16232.pdf" atime="1527705480">
+    <entry key="window_x" type="gint" value="2"/>
+    <entry key="window_y" type="gint" value="25"/>
+    <entry key="window_height" type="gint" value="946"/>
+    <entry key="window_width_ratio" type="gdouble" value="1.6127450980392157"/>
+    <entry key="page" type="gint" value="2"/>
+    <entry key="sidebar_page" type="gchararray" value="thumbnails"/>
+    <entry key="window_width" type="gint" value="987"/>
+    <entry key="window_maximized" type="gboolean" value="0"/>
+    <entry key="window_height_ratio" type="gdouble" value="1.1944444444444444"/>
+  </document>
+</metadata>

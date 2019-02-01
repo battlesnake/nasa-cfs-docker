@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>SpaceShuttle.jpg</name>
+    <filename>/home/dev/Pictures/SpaceShuttle.jpg</filename>
+    <options>stretched</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#22224b4b6868</pcolor>
+    <scolor>#14142c2c3d3d</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cosmos</name>
+    <filename>/usr/share/backgrounds/cosmos/background-1.xml</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#22224b4b6868</pcolor>
+    <scolor>#14142c2c3d3d</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Hubble-Shuttle.jpg</name>
+    <filename>/home/dev/Pictures/Hubble-Shuttle.jpg</filename>
+    <options>stretched</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#22224b4b6868</pcolor>
+    <scolor>#14142c2c3d3d</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>No Desktop Background</name>
+    <filename>(none)</filename>
+    <options>scaled</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#22224b4b6868</pcolor>
+    <scolor>#14142c2c3d3d</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>CentOS Default Background</name>
+    <filename>/usr/share/backgrounds/default.xml</filename>
+    <options>stretched</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#22224b4b6868</pcolor>
+    <scolor>#14142c2c3d3d</scolor>
+  </wallpaper>
+</wallpapers>
